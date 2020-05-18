@@ -2,6 +2,10 @@
 
 Hexfall Clone is a match-3 game inspired by HexFall.  When 3 hexagonal shaped items are matched by their color player earns score. 
 
+## Build Link
+You can find current apk build on my drive.
+https://drive.google.com/open?id=14M6WjrkQus5gCFLaBa_JdEwNBgDnSbar
+
 ## Grid System
 
 By given grid size, system determines where to create hexagons and put them in a matrix. System is also responsible for :
