@@ -18,13 +18,13 @@ By given grid size, system determines where to create hexagons and put them in a
 
 ## Grid Items
 
-
+Each grid item has color, neighbor data, possible move count and identity to become a bomb.
 
 ## Game Manager
 
-
+Game Manager holds total score, bomb step and move count. It also handles input events and game logic.
 
 ## Input Manager
 
-
+To select a hexagon tap on screen. To turn selected hexagons swipe right for clockwise turning or swipe left for counter clockwise turning. 
 
